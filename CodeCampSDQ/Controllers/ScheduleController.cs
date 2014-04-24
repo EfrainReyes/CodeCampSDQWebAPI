@@ -8,6 +8,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web;
 using System.Web.Http;
+using CodeCampSDQ.Common;
 using CodeCampSDQ.Models;
 
 namespace CodeCampSDQ.Controllers

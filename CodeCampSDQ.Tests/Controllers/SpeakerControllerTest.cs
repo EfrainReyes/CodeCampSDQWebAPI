@@ -4,6 +4,7 @@ using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Web.Http;
+using CodeCampSDQ.Common;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using CodeCampSDQ;
 using CodeCampSDQ.Controllers;

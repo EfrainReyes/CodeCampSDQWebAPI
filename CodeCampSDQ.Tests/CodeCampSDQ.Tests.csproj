@@ -105,6 +105,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CodeCampSDQ.Common\CodeCampSDQ.Common.csproj">
+      <Project>{7f6b5e5a-30de-4cfd-aab5-ebc6b2a1d257}</Project>
+      <Name>CodeCampSDQ.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CodeCampSDQ\CodeCampSDQ.csproj">
       <Project>{87974B43-62C2-4CAC-B2BC-8CB3C78800D5}</Project>
       <Name>CodeCampSDQ</Name>
